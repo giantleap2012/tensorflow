@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tf-stanford-tutorials
 This repository contains code examples for the course CS 20SI: TensorFlow for Deep Learning Research. <br>
 It will be updated as the class progresses. <br>
@@ -24,3 +25,7 @@ Demonstration of the danger of lazy loading
 
 
 
+=======
+# tensorflow
+Learning tensorflow
+>>>>>>> b0039654f0672003fbe8092437f7220b6980fec1
